@@ -1,2 +1,1 @@
-# SWEN30006
-Project files in SWEN30006
+Project files of `SWEN30006` Software Modelling and Design at The University of Melbourne
