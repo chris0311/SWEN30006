@@ -2,6 +2,6 @@
 # [SWEN30006 2023S1] Project Assignment 1
 PacMan in the Multiverse
 # Team Members
-- 1159696 Chris(Junyu) Liang (junyliang@student.unimelb.edu.au>)
-- 1179228 lihang zhang (lihangz@student.unimelb.edu.au>)
-- 1157489 Haoxuan LU (haoxuanl1@student.unimelb.edu.au>)
+- Chris(Junyu) Liang
+- lihang zhang
+- Haoxuan LU
